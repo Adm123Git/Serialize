@@ -1,0 +1,13 @@
+############# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+############# Idea
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
